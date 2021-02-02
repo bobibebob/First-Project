@@ -6,7 +6,7 @@ namespace Please_Work
     {
         static void Main(string[] args)
         {
-            string general = "Hello Wor1{ld";
+            string general = "  a1bcd    efg!h";
             string[] cut = general.Split(" ");
             foreach (var word in cut) //тут мы в цикле перебираем все слова
             {
